@@ -1,0 +1,98 @@
+{
+    "auth" : {
+        "login" : "giriş yap",
+        "register" : "Hesap oluştur",
+        "name" : "Adınız ve Soyadınız",
+        "email" : "E-posta" ,
+        "password" : "Şifre" ,
+        "password_confirmation" : "Şifre Konferansı",
+        "already_have_an_account"  : "Zaten bir hesabınız var ?",
+        "dont_have_account" : "Hesabınız yok mu ? "
+    },
+    "general" : {
+        "loading": "yükleme ...",
+        "home": "Ana Sayfa",
+        "go_to_home" : "Ana Sayfaya Git",
+        "contact" :  "Bize Ulaşın",
+        "footer" : "Tüm Hakları 'Company' Parfümlerine Aittir / 2024",
+        "back" : "dön",
+        "contact_information" : "İletişim Bilgileri",
+        "customer_service" : "Müşteri Hizmetleri",
+        "whatsapp" : "WhatsApp",
+        "message" : "mesaj",
+        "send" : "Gönder",
+        "sendMessage" : "Bir mesaj yaz",
+        "start_shopping" : "Alışverişe Başla",
+        "continue_shopping" : "Alışverişe Devam Et",
+        "no_in_cart" : "Alışveriş sepetinde ürün yok.  " ,
+        "no_in_favs" : "Sık kullanılanlar sepetinde ürün yok .  ",
+        "favorites_cart" :  "Sık kullanılanlar sepeti",
+        "shopping_cart" :  "Alışveriş Sepeti"
+    },
+
+    "user" :{
+        "country_code" : "Ülke Kodu",
+        "phone" : "Telefon numarası",
+        "shipping_address" : "Teslimat Adresi",
+        "company" : "Firma Adı" ,
+        "apartment" : "Daire ",
+        "city" : "Şehir",
+        "address" : "Adres",
+        "state" :"Devlet",
+        "postal_code":"Posta Kodu"
+    },
+
+    "product" : {
+        "category":"Kategori"  ,
+        "title":"Ürün adı"  ,
+		"description":"Ürün tarif" ,
+		"slug":"Kod" ,
+		"quantity":"Stoktaki miktar",
+        "add_to_cart":"Sepete ekle",
+        "clear_cart" : "sepeti temizle",
+        "buy_now": "Satın Al",
+		"price":"Fiyat",
+        "from" :" #den ",
+        "about" : "Bu parfüm hakkında :"
+
+    },
+    "order" : {
+        "order" : "Sipariş",
+        "order_summary" : "Sipariş Özeti",
+        "items_count" : "Öğe Sayısı",
+        "sub_total" : "Ara Toplam",
+        "total" : "Toplam",
+        "Shipping_and_taxes_place" : "Ödeme sırasında hesaplanan kargo ve vergiler.",
+        "shipping" : "Nakliye",
+        "checkout":"siparişe devam et",
+        "vat" : "Vergi",
+        "edit_order" : "Sırayı Düzenle",
+        "payment_details" : "Ödeme detayları",
+        "name_on_card" : "Karttaki İsim",
+        "card_number" : "Kart Numarası",
+        "expiration_date" : "Son kullanma tarihi (AA/YY)     ",
+        "cvn" : "CVN (Özgeçmiş)",
+        "pay" : "Öde"
+    },
+    "yup" : {
+        "required" :" {field} gereklidir" ,
+        "requiredF" :" {field} gereklidir" ,
+        "at_least" : " { field } en az olmalı { num  } Karakter",
+        "at_leastF" : " { field } en az olmalı { num  } Karakter",
+        "must" : " { field } Olmalıdır  { num  } Sayılar",
+        "must_either" : " { field } Olmalıdır  { num1  } or { num2 } Sayılar",
+        "email" : "Geçerli bir e-posta girin",
+        "doesnt_match" : "Şifreler eşleşmiyor",
+        "expiration_date" : "Son kullanma tarihi AA/YY biçiminde olmalı ve geçerli olmalıdır",
+        "card_expied" : "Kartın süresi doldu",
+        "taken" : " {field} zaten alınmış"
+
+    },
+    "states" : {
+        "not_logged_in" : "E-posta veya şifre yanlış !",
+        "registered" : "Hesabınız başarıyla oluşturuldu!",
+        "already_exists" : "Ürün zaten eklendi {item}",
+        "added_to" : " Eklendi  {item} ",
+        "removed_from" : "ürün şuradan kaldırıldı: {item} "
+    }
+}

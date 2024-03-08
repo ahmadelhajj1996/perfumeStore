@@ -1,0 +1,100 @@
+{
+    "auth" : {
+        "login" : "تسجيل الدخول",
+        "register" : "انشاء حساب",
+        "name" : "  الاسم الكامل",
+        "email" : " البريد الالكتروني"  ,
+        "password" : "كلمة المرور" ,
+        "password_confirmation" : "تأكيد كلمة المرور" ,
+        "already_have_an_account"  : "لديك حساب بالفعل ؟",
+        "dont_have_account" : "ليس لديك حساب ؟"
+    },
+
+    "general" : {
+        "loading": " جاري التحميل ...",
+        "home": "الرئيسية",
+        "go_to_home" : "عودة الى الرئيسية",
+        "contact" :  "تواصل معنا",
+        "footer" :"جميع الحقوق محفوظة لشركة عطور الشركة / 2024",
+        "back" : "عودة",
+        "contact_information" : "معلومات الاتصال",
+        "customer_service" : "خدمة العملاء",
+        "whatsapp" : "واتساب",
+        "message" : "رسالة",
+        "send" : "ارسال",
+        "sendMessage" : "ارسال رسالة",
+        "start_shopping" : "ابدأ التسوق",
+        "continue_shopping" : "متابعة التسوق",
+        "no_in_cart" : "لا توجد عناصر في سلة التسوق" ,
+        "no_in_favs" : "لا توجد عناصر في قائمة المفضلة لديك",
+        "favorites_cart" :  "قائمة المفضلة",
+        "shopping_cart" :  "سلة التسوق"
+    },
+
+    "user" :{
+        "country_code" : "رمز الهاتف",
+        "phone" : "رقم الهاتف",
+        "shipping_address" : "عنوان الشحن",
+        "company" : "الشركة" ,
+        "apartment" : "الشقة",
+        "city" : "المدينة",
+        "address" : "العنوان",
+        "state" :"المدينة",
+        "postal_code":"الرمز البريدي"
+    },
+    "product" : {
+        "category":"النوع"  ,
+        "title":"اسم المنتج"  ,
+		"description":"وصف المنتج" ,
+		"slug":"الرمز" ,
+		"quantity":"الكمية المتوفرة",
+        "add_to_cart":"اضافة الى السلة",
+        "clear_cart" : "افراغ السلة",
+        "buy_now": "شراء",
+		"price":"السعر",
+        "from" :" من#",
+        "about" : "حول المنتج :"
+
+
+    },
+    "order" : {
+        "order" : "الطلب",
+        "order_summary" : "ملخص الطلب",
+        "items_count" : "عدد المنتجات",
+        "sub_total" : "المجموع الجزئي",
+        "total" : "المجموع",
+        "Shipping_and_taxes_place" : "تكلفة الشحن والضريبة تحسب في صفحة الدفع",
+        "shipping" : "الشحن",
+        "checkout":"اتمام الطلب",
+        "vat" : "الضريبة",
+        "edit_order" : "تعديل الطلب",
+        "payment_details" : "معلومات البطاقة ",
+        "name_on_card" : "الاسم على البطاقة",
+        "card_number" : "رقم البطاقة",
+        "expiration_date" : " تاريخ انتهاء الصلاحية (شهر/سنة)    ",
+        "cvn" : "رمز (cvn)",
+        "pay" : "ادفع"
+    },
+    "yup" : {
+        "required" :" {field} مطلوب" ,
+        "requiredF" :" {field} مطلوبة",
+        "at_least" : "{field} يجب ان يكون  أكثر من   { num  } احرف  " ,
+        "at_leastF" : "{field} يجب ان تكون  أكثر من   { num  } احرف  ",
+        "must" : "{field} يجب ان تكون   { num  } أرقام  ",
+        "must_either" : "{field} يجب ان تكون   { num1  } أو { num2 } ارقام",
+        "email" : "أدخل بريد الكتروني صحيح",
+        "doesnt_match" : "كلمة المرور غير متطابقة",
+        "expiration_date" : "يجب أن يكون تاريخ انتهاء الصلاحية بالتنسيق شهر / سنة   ويجب أن يكون صالحا",
+        "card_expied" : "صلاحية البطاقة منتهية",
+        "taken" : " {field}  هذا غير متاح "
+    },
+    "states" : {
+        "not_logged_in" : "اسم المستخدم او كلمة المرور غير صحيحين! ",
+        "registered" : "تم انشاء الحساب بنجاح",
+        "already_exists" : " المنتج موجود  في {item}",
+        "added_to" : " تمت اضافة المنتج الى  {item} بنجاح",
+        "removed_from" : "تم حذف المنتج بنجاح"
+
+    }
+
+}

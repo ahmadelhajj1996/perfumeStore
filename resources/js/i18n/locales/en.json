@@ -1,0 +1,98 @@
+{
+    "auth" : {
+        "login" : "login",
+        "register" : "Create account",
+        "name" : "Full Name ",
+        "email" : "Email " ,
+        "password" : "Password" ,
+        "password_confirmation" : "Password Confirmation",
+        "already_have_an_account"  : "Already have an account ?",
+        "dont_have_account" : "Dont have account ? "
+    },
+    "general" : {
+        "loading": "loading ...",
+        "home": "Home",
+        "go_to_home" : "Go To Home",
+        "contact" :  "Contact Us",
+        "footer" : "all rights reserved for 'company' perfumes / 2024",
+        "back" : "Back",
+        "contact_information" : "Contact Informations",
+        "customer_service" : "Customer Service",
+        "whatsapp" : "WhatsApp",
+        "message" : "Message",
+        "send" : "Send",
+        "sendMessage" : "Write a message",
+        "start_shopping" : "Start Shopping",
+        "continue_shopping" : "Continue Shopping",
+        "no_in_cart" : "There are no items in the shopping cart .  " ,
+        "no_in_favs" : "There are no items in the favorites cart .  ",
+        "favorites_cart" :  "Favorites cart",
+        "shopping_cart" :  "Shopping cart"
+
+    },
+
+    "user" :{
+        "country_code" : "Country Code",
+        "phone" : "Phone Number ",
+        "shipping_address" : "Shipping Address",
+        "company" : "Company Name" ,
+        "apartment" : "Apartment, suite, etc. ",
+        "city" : "City",
+        "address" : "Address",
+        "state" :"State",
+        "postal_code":"Postal Code"
+    },
+
+    "product" : {
+        "category":"Category"  ,
+        "title":"Title"  ,
+		"description":"Description" ,
+		"slug":"Code" ,
+		"quantity":"Quantity in Stock",
+        "add_to_cart":"Add To cart",
+        "clear_cart" : "Clear Cart",
+        "buy_now": "Buy Now",
+		"price":"Price",
+        "from" :"from #",
+        "about" : "About this perfume : "
+    },
+    "order" : {
+        "order" : "Order",
+        "order_summary" : "Order Summary",
+        "items_count" : "Items Count",
+        "sub_total" : "Sub Total",
+        "total" : "Total",
+        "Shipping_and_taxes_place" : "Shipping and taxes calculated at checkout.",
+        "shipping" : "Shipping",
+        "checkout":"checkout",
+        "vat" : "Vat",
+        "edit_order" : "Edit Order",
+        "payment_details" : "Payment Details",
+        "name_on_card" : "Name On Card",
+        "card_number" : "Card Number",
+        "expiration_date" : "Expiration date (MM/YY)     ",
+        "cvn" : "CVN",
+        "pay" : "Pay"
+    },
+    "yup" : {
+        "required" :" {field} is required" ,
+        "requiredF" :" {field} is required" ,
+        "at_least" : " { field } must be at least { num  } characters",
+        "at_leastF" : " { field } must be at least { num  } characters",
+        "must" : " { field } must be  { num  } digits",
+        "must_either" : " { field } must be  { num1  } or { num2 } digits",
+        "email" : "enter a valid email",
+        "doesnt_match" : "Passwords don't match",
+        "expiration_date" : "Expiration date must be in the format MM/YY and must be valid",
+        "card_expied" : "Card has expired",
+        "taken" : " {field} already taken"
+
+    },
+    "states" : {
+        "not_logged_in" : "email or password incorrect !",
+        "registered" : "your account created successfully!",
+        "already_exists" : "Product already added to {item}",
+        "added_to" : " added to  {item} ",
+        "removed_from" : "product removed  from {item} "
+    }
+}

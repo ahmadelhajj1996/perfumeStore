@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    label {
+      @apply  text-[10px] md:text-[12px]
+    }
+    .Field {
+      @apply  my-1 w-full text-xs rounded-lg rounded-br-none rounded-tl-none border-gray-300  focus:border-gray-600 focus:ring-0
+    }
+
+    svg {
+        @apply w-6 h-6   stroke-black stroke-1
+    }
+
+    button {
+        @apply  w-full text-center text-black bg-yellow-100  rounded-lg rounded-br-none rounded-tl-none text-xs font-normal      hover:bg-yellow-200  mt-2 py-2 focus:ring-0 focus:border-0
+    }
+
+    .toast {
+        @apply text-[10px] max-w-[70%] sm:text-[12px] sm:max-w-[40%] md:max-w-[25%]
+    }
+
+}
